@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Jan 19 09:53:40 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-016f-bc0a-c574-00000b1c8d18 
+on database directory D:\TRAININGS\EDUREKA APACHE SPARK TRAINING LATEST\spark-edureka-examples\metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@32fdec40 
+Loaded from file:/C:/Users/Sony/.m2/repository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_151-b12
+user.dir=D:\TRAININGS\EDUREKA APACHE SPARK TRAINING LATEST\spark-edureka-examples
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
