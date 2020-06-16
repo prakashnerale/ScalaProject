@@ -1,4 +1,4 @@
-package spark_edureka.spark_edureka_examples;
+package spark_project.Spark;
 
 /**
  * Hello world!
