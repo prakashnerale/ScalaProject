@@ -9,7 +9,7 @@ object SparkCommonUtils {
   import org.apache.spark.SparkConf
 
   //Directory where the data files for the examples exist.
-  val datadir = "D:\\TRAININGS\\EDUREKA APACHE SPARK TRAINING LATEST\\spark-edureka-examples\\data-files\\"
+  val datadir = "D:\\GitHub Repo\\ScalaProject\\data-files"
 
   //A name for the spark instance. Can be any string
   val appName = "App-Prakash"
