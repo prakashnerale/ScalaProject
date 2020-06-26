@@ -63,7 +63,7 @@ object SparkStreamingDemo extends App {
 
     ssc.start()
     ssc.awaitTermination()
-//  pw.close()
-  //ssc.stop()
+   //pw.close()
+   //ssc.stop()
 
 }
